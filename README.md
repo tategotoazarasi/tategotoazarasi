@@ -1,5 +1,5 @@
 ![QQ](https://img.shields.io/static/v1?label=QQ&message=2724167997&style=social&logo=tencentqq&logoColor=black)
-![WeChat](https://img.shields.io/static/v1?label=WeChat&message=wxid_8rnzabrf2vso22&style=social&logo=wechat&logoColor=green)
+<!--![WeChat](https://img.shields.io/static/v1?label=WeChat&message=wxid_8rnzabrf2vso22&style=social&logo=wechat&logoColor=green)-->
 ![LeetCode](https://img.shields.io/static/v1?label=LeetCode&message=azarasi&style=social&logo=leetcode&logoColor=orange&link=https://leetcode-cn.com/u/azarasi/)
 
 ![Tategoto Azarasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tategotoazarasi&show_icons=true)
