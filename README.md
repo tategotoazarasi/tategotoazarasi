@@ -7,6 +7,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=tategotoazarasi&column=10)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tategotoazarasi)](https://github.com/anuraghazra/github-readme-stats)
+
+![tech skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tategotoazarasi)
+
 <!--
 **tategotoazarasi/tategotoazarasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
