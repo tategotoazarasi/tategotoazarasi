@@ -1,26 +1,23 @@
-![QQ](https://img.shields.io/static/v1?label=QQ&message=2724167997&style=social&logo=tencentqq&logoColor=black)
-<!--![WeChat](https://img.shields.io/static/v1?label=WeChat&message=wxid_8rnzabrf2vso22&style=social&logo=wechat&logoColor=green)-->
-![LeetCode](https://img.shields.io/static/v1?label=LeetCode&message=azarasi&style=social&logo=leetcode&logoColor=orange&link=https://leetcode-cn.com/u/azarasi/)
+<picture>
+  <source
+    srcset="https://github-readme-stats-lac-two-62.vercel.app/api?username=tategotoazarasi&show_icons=true&include_all_commits=true&theme=dark&rank_icon=github&border_color=30363d&bg_color=00000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-lac-two-62.vercel.app/api?username=tategotoazarasi&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=00000000"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align=top src="https://github-readme-stats-lac-two-62.vercel.app/api?username=tategotoazarasi&show_icons=true&include_all_commits=true&rank_icon=github&border_color=30363d&bg_color=00000000" />
+</picture>
 
-![Tategoto Azarasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tategotoazarasi&show_icons=true)
-
-![](https://github-profile-trophy.vercel.app/?username=tategotoazarasi&column=10)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tategotoazarasi)](https://github.com/anuraghazra/github-readme-stats)
-
-![tech skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tategotoazarasi)
-
-<!--
-**tategotoazarasi/tategotoazarasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source
+    srcset="https://github-readme-stats-lac-two-62.vercel.app/api/top-langs/?username=tategotoazarasi&hide_progress=true&theme=dark&border_color=30363d&bg_color=00000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-lac-two-62.vercel.app/api/top-langs/?username=tategotoazarasi&hide_progress=true&bg_color=00000000"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align=top src="https://github-readme-stats-lac-two-62.vercel.app/api/top-langs/?username=tategotoazarasi&hide_progress=true&border_color=30363d&bg_color=00000000" />
+</picture>
